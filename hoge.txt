@@ -1,3 +1,4 @@
 #this is git hoge.txt
 
 initial add
+second !
